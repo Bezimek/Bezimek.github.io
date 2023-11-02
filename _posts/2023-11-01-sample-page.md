@@ -29,7 +29,7 @@ To jest przykład podnagłówka trzeciego poziomu.
 
 Możesz dodać obrazy do swojej strony, takie jak ten:
 
-![Przykładowy Obraz](/assets/img/sample-image.jpg)
+![Przykładowy Obraz](/assets/img/avatar.jpg)
 
 ## Linki
 
