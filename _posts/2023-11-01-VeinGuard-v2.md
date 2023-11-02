@@ -5,7 +5,7 @@ categories: [projects]
 tags: [Thesis, Project, Computer Vision, Biometrics, Scanner]
 ---
 
-Authors: Patryk Wypych, Jakub Olszewski
-
 # TODO
 Erm.... Wait till we finish our master thesis please
+
+Authors: Patryk Wypych, Jakub Olszewski
