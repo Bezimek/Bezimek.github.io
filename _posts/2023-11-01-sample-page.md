@@ -1,64 +1,33 @@
 ---
-title: Przykładowa Strona
-date: 2023-11-01 10:00:00 +0000
-categories: [test]
-tags: [test, test1]
+title: CHUMS - The Collaborative Creation of Team FlowChain
+date: 2023-10-29 16:00:00 +0000
+categories: [projects, hackathon]
+tags: [hackathon, project, AI, Best Hacks, FlowChain]
 ---
 
-To jest przykładowa strona utworzona w Jekyll i oparta na temacie "Chirpy". Możesz dostosować tę stronę według własnych potrzeb i treści. Poniżej znajdziesz przykład treści strony.
+CHUMS is the result of our dedicated team at FlowChain, coming together during the Best Hacks 2023 hackathon. It's a user-friendly community platform that allows you to sign in, share your passions and interests, and get personalized event recommendations. With CHUMS, you can easily find and join meetups with people who share your interests.
 
-![Avatar](/images/avatar.jpg)
+## About CHUMS
 
-## Nagłówek 1
+Welcome to CHUMS, the brainchild of Team FlowChain that was born during the Best Hacks 2023 hackathon. CHUMS is a user-friendly community platform designed to connect people who share common interests and passions. It's your gateway to a world of personalized events and meetups where you can meet like-minded individuals and discuss various topics.
 
-To jest przykładowy tekst pod nagłówkiem pierwszego poziomu.
+## Features
 
-### Podnagłówek 1.1
+### Personalized Event Recommendations
 
-To jest przykładowy tekst pod nagłówkiem drugiego poziomu.
+Discover events and meetups tailored to your interests, thanks to our cutting-edge recommendation system. CHUMS ensures you never miss an opportunity to connect with people who share your passions.
 
-## Nagłówek 2
+### Community Building
 
-To jest inna sekcja na stronie.
+CHUMS is all about fostering strong connections within your community. Join or create groups centered around your interests and engage in meaningful conversations.
 
-#### Podnagłówek 2.1
+### User-Friendly Interface
 
-To jest przykład podnagłówka trzeciego poziomu.
+Our platform is designed with simplicity in mind. Signing in, setting up your profile, and finding events is a breeze.
 
-## Obrazy
+## Footer
 
-Możesz dodać obrazy do swojej strony, takie jak ten:
-
-![Przykładowy Obraz](/assets/img/avatar.jpg)
-
-## Linki
-
-Możesz dodać linki do innych stron lub źródeł:
-
-- [Przykładowy Link 1](https://www.example.com)
-- [Przykładowy Link 2](https://www.example2.com)
-
-## Lista
-
-Możesz utworzyć listy, takie jak ta lista numerowana:
-
-1. Pierwszy element listy.
-2. Drugi element listy.
-3. Trzeci element listy.
-
-## Cytat
-
-Możesz dodać cytat, na przykład:
-
-> To jest przykład cytatu na Twojej stronie.
-
-## Math
-
-Jeśli włączyłeś obsługę matematyki, możesz dodać równania matematyczne, na przykład:
-
-$$
-E=mc^2
-$$
-
-To jest przykład równania matematycznego.
-
+- Contact Us
+- Privacy Policy
+- Terms of Service
+- © 2023 FlowChain. All rights reserved.
