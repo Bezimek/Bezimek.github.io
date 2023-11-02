@@ -7,6 +7,8 @@ tags: [test, test1]
 
 To jest przykładowa strona utworzona w Jekyll i oparta na temacie "Chirpy". Możesz dostosować tę stronę według własnych potrzeb i treści. Poniżej znajdziesz przykład treści strony.
 
+![Avatar](/images/avatar.jpg)
+
 ## Nagłówek 1
 
 To jest przykładowy tekst pod nagłówkiem pierwszego poziomu.
