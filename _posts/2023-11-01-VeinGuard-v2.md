@@ -1,7 +1,7 @@
 ---
 title: VeinGuard v2
-date: 2023-11-01 12:00:00 +0000
-categories: [projects]
+date: 2023-11-01 12:00:00 +0200
+categories: [projects, thesis]
 tags: [Thesis, Project, Computer Vision, Biometrics, Scanner]
 ---
 
